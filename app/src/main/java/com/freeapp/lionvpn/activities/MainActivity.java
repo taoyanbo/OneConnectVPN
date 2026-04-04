@@ -61,7 +61,7 @@ import top.oneconnectapi.app.activities.DisconnectVPN;
 public class MainActivity extends ContentsActivity {
 
     public static String indratech_toto_27640849_fb_reward_id = "";
-    public static String indratech_toto_27640849_admob_reward = "ca-app-pub-3940256099942544/5224354917";
+    public static String indratech_toto_27640849_admob_reward = "ca-app-pub-3082674050515622/8605237618";
     public static String copyright_ivpnofficial_dont_change_the_value = "fb";
     public static Countries selectedCountry = null;
     private Locale locale;
