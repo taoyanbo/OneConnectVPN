@@ -7,7 +7,7 @@
     <string name="tech_three_months"> $5.99</string>
     <string name="tech_six_months"> $9.99</string>
     <string name="tech_twelve_months"> $17.99</string>
-    <string name="support_email">help@willdev.in</string> <!--Also Update your email inside ui/BaseDrawerActivity.java -->
+    <string name="support_email">sophiatao2006@gmail.com</string> <!--Also Update your email inside ui/BaseDrawerActivity.java -->
     <string name="privacy_policy_link">https://srv58077555.ultasrv.net/privacy.html</string>
     <string name="privacy_policy">Privacy Policy</string>
     <string name="nav_header_title">Premium VPN</string>

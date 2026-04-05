@@ -80,7 +80,7 @@ abstract class BaseDrawerActivity : AppCompatActivity() {
         when (menuId) {
             R.id.nav_helpus -> {
                 val intent = Intent(Intent.ACTION_SENDTO)
-                intent.data = Uri.parse("mailto:help@willdev.in")
+                intent.data = Uri.parse("mailto:sophiatao2006@gmail.com")
                 intent.putExtra(Intent.EXTRA_EMAIL, (R.string.support_email))
                 intent.putExtra(Intent.EXTRA_SUBJECT, R.string.support_email_subject)
                 intent.putExtra(Intent.EXTRA_TEXT, R.string.support_email_extra_text)
