@@ -71,7 +71,7 @@ public class MainActivity extends ContentsActivity {
     public static String indratech_toto_27640849_admob_id = "ca-app-pub-3082674050515622~7809092891";
     public static String indratech_toto_27640849_ad_banner_id = "ca-app-pub-3082674050515622/6544112685";
     public static String admob_interstitial_id = "ca-app-pub-3082674050515622/3917949347";
-    public static String indratech_toto_27640849_aad_native_id = "";
+    public static String indratech_toto_27640849_aad_native_id = "ca-app-pub-3082674050515622/2125981408";
     public static String indratech_toto_27640849_fb_native_id = "";
     public static String indratech_toto_27640849_fb_interstitial_id = "";
     public static boolean indratech_toto_27640849_all_ads_on_off = true;

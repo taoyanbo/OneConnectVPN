@@ -18,8 +18,8 @@ android {
         applicationId 'com.freeapp.lionvpn'
         minSdkVersion 23
         targetSdkVersion 35
-        versionCode 205
-        versionName "2.0.5"
+        versionCode 206
+        versionName "2.0.6"
 
         manifestPlaceholders = [
                 onesignal_app_id: '7e483c84-c320-414e-8d24-1c1677dd2ffd',
